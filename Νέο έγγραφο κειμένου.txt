@@ -1,0 +1,9 @@
+πινακες
+
+products
+product_images
+product_discounts
+product_options
+*product_tax
+product_attributes
+product_description
